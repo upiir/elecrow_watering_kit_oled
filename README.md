@@ -39,6 +39,7 @@ Small animation:
 
 ![wokwi_gif_animation](https://github.com/upiir/elecrow_watering_kit_oled/assets/117754156/0b65792f-d1e8-421d-bdf1-7711f2ba7c87)
 
+![elecrow_smart_watering_kit](https://github.com/upiir/elecrow_watering_kit_oled/assets/117754156/5db93601-be35-4afd-8d8f-5fb19ed5d00a)
 
 
 
